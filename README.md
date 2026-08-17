@@ -1,5 +1,5 @@
 <h1 align="center">Olá, tudo bem? 👋</h1>
-<h3 align="center">Sou Desenvolvedora Oracle APEX | Estudante de Ciência da Computação</h3>
+<h3 align="center">Desenvolvedora Oracle APEX - SQL - PL/SQL | Estudante de Ciência da Computação</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Transformando+dados+em+solu%C3%A7%C3%B5es;Oracle+APEX+%7C+SQL+%7C+PL%2FSQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
