@@ -1,4 +1,3 @@
-<h1 align="center">Olá, tudo bem? 👋</h1>
 <h3 align="center">Desenvolvedora Oracle APEX - SQL - PL/SQL | Estudante de Ciência da Computação</h3>
 
 <p align="center">
@@ -47,9 +46,12 @@
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<p align="center"> 
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LisRozanski&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisRozanski&layout=compact&theme=tokyonight&hide_border=true" />
+</p> 
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com/?user=LisRozanski&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
