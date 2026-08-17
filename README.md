@@ -9,7 +9,7 @@
 
 ### 💼 Sobre mim
 
-- 🔧 Atuo profissionalmente como **Desenvolvedora Oracle APEX**
+- 🔧 Atuo profissionalmente como **Desenvolvedora Oracle APEX** com mais de 4 anos de experiência na área
 - 🗃️ Tenho conhecimento sólido em **SQL**, **PL/SQL** e **Modelagem de Dados**
 - 🌐 Também desenvolvo com **HTML**, **CSS**, **JavaScript** e **Python**
 - 🎓 Cursando **Ciência da Computação**, aprofundando em **Java**, **POO** e fundamentos da computação
